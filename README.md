@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HyconBot
+- 👀 I’m maintained by [HyconTeam](https://t.me/HyconOs)
+- 💞️ I’m working on @HyconOS-Releases @Hycon-Devices
+- 📫 Check my team @HyconOs
