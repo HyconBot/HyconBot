@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HyconBot
-- 👀 I’m maintained by [HyconTeam](https://t.me/HyconOs)
-- 💞️ I’m working on @HyconOS-Releases @Hycon-Devices
-- 📫 Check my team @HyconOs
+- 👋 Hi, I’m [@HyconBot](https://github.com/HyconBot)
+- 👀 I’m maintained by [HyconTeam](https://t.me/HyconOsUpdates)
+- 💞 I’m working on [@HyconOS-Releases](https://github.com/HyconOs-Releases) [@Hycon-Devices](https://github.com/Hycon-Devices)
+- 🐺 Check my team [@HyconOs](https://github.com/HyconOS)
